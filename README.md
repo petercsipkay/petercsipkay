@@ -1,66 +1,42 @@
-# 👋 Hi, I’m Peter Csipkay  
-*Creative Frontend Developer | 3D Web & AI Engineer*
+## _Creative Frontend Developer | 3D Web & AI Engineer_
 
----
-
-## 🌐 Personal Website  
 Explore my latest projects and case studies:  
 👉 [petercsipkay.com](https://www.petercsipkay.com)
 
 ---
 
-## 🚀 Projects & Products
+### Private Projects
 
-- **Stadt Der Zukunft 3D** – Immersive 3D city experience (Three.js / WebGL)  
-- **Zukunftskompass – LENK Bayern** – CMS-driven innovation platform for the region  
-- **Bayern Innovativ – Spirograph Canvas** – Interactive frontend canvas tool  
-- **Three.js Resources** – Curated developer hub for everything Three.js  
-- **VS Snippets** – VS Code extension to manage and use code snippets ([vssnippets.com](https://www.vssnippets.com/))  
-- **RemToPx** – Web tool to convert rem to pixel for designers and devs ([remtopx.com](https://remtopx.com/))  
-- **Tinyhouse 3D** – Interactive tiny house visualized in 3D (for LENK Bayern)
-
-### Private Projects  
-- **UseClick** – [useclick.io](https://useclick.io/)  
-- **Angeboterstellen** – [angeboterstellen.de](https://angeboterstellen.de/)  
-- **WatchAlternative** – [watchalternative.com](https://watchalternative.com/)  
-- **AI LIPSUM** – [ailipsum.com](https://ailipsum.com/)
+-   **Three.js Resources** – ([threejsresources.com](https://threejsresources.com/))
+-   **VS Snippets** – ([vssnippets.com](https://www.vssnippets.com/))
+-   **RemToPx** – ([remtopx.com](https://remtopx.com/))
+-   **UseClick** – [useclick.io](https://useclick.io/)
+-   **Angeboterstellen** – [angeboterstellen.de](https://angeboterstellen.de/)
+-   **WatchAlternative** – [watchalternative.com](https://watchalternative.com/)
+-   **AI LIPSUM** – [ailipsum.com](https://ailipsum.com/)
 
 ---
 
 ## 🧠 My Tech Stack
 
-**3D Web & Immersive Tech**  
-- Three.js, WebGL, WebGPU, GSAP, VR / AR / XR
+**3D Web & Immersive Tech**
 
-**Frameworks**  
-- React, Vue / Nuxt, Svelte, Astro, Tailwind CSS
+-   Three.js, WebGL, WebGPU, GSAP, VR / AR / XR
 
-**AI & Automation**  
-- ChatGPT / OpenAI API, LangChain, Prompt Engineering, RAG, AI Agents, N8N, Vector DBs
+**Frameworks**
 
-**CMS & Backend**  
-- Headless CMS (Sanity, Prismic, Payload), WordPress, Drupal  
-- GraphQL, REST APIs, MongoDB
+-   React / Next.js, Vue / Nuxt, Svelte, Astro
 
-**Languages & Tools**  
-- JavaScript, TypeScript, Python, SCSS  
-- Vite, Git, Stripe, Figma, GitHub Actions
+**AI & Automation**
 
----
+-   ChatGPT / OpenAI API, AI Agents, N8N, LangChain, Prompt Engineering, RAG, AI Agents, N8N, Vector DBs
 
-## 📍 Based in Munich / Starnberg, Germany  
-Helping companies build modern, creative and interactive websites powered by 3D and AI.
+**CMS & Backend**
 
----
+-   Headless CMS (Sanity, Prismic, Payload CMS), WordPress, Drupal, Craft CMS
+-   GraphQL, REST APIs, MongoDB, SupeBase, Firebase
 
-## 📬 Get in touch
+**Languages & Tools**
 
-- 📧 Email: hello@petercsipkay.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/petercsipkay)  
-- 💻 [GitHub](https://github.com/petercsipkay)  
-- 📸 [Instagram](https://www.instagram.com/peter.csipkay)  
-- ✖️ [X / Twitter](https://twitter.com/petercsipkay)
-
----
-
-*Let’s create something amazing together.*
+-   JavaScript, TypeScript, Python, SCSS , Tailwind CSS
+-   Vite, Git, Stripe, Figma,
