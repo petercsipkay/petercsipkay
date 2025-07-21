@@ -11,9 +11,7 @@ Explore my latest projects and case studies:
 -   **VS Snippets** – ([vssnippets.com](https://www.vssnippets.com/))
 -   **RemToPx** – ([remtopx.com](https://remtopx.com/))
 -   **UseClick** – [useclick.io](https://useclick.io/)
--   **Angeboterstellen** – [angeboterstellen.de](https://angeboterstellen.de/)
 -   **WatchAlternative** – [watchalternative.com](https://watchalternative.com/)
--   **AI LIPSUM** – [ailipsum.com](https://ailipsum.com/)
 
 ---
 
